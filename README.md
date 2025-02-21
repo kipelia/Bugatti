@@ -45,7 +45,7 @@
 
 🕳️  DEPLOY BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich3/Stored)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https%3A%2Fgitub.com%2Feliakip%2FNORMAL-BOT)
 
 ****
 🕳️  DEPLOY ON [ RENDER ]
@@ -133,14 +133,14 @@
 ### HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/254740007567">
+   <a href="https://wa.me/254745931715">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Powered by King Marisel 
+## Powered by Eliakim Tech
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div align="center">
